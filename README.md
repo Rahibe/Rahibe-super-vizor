@@ -7,7 +7,7 @@
 * Glitch Aktar
 * Daha sonra `src`dosyasındaki `Settings` dosyasının içindeki `Config.json`, `Settings.json` dosyalardaki bilgileri doldur.
 * ```npm install``` yazarak tüm modülleri kur.
-* Kurulum bittikten sonra ```node beta.js``` yaz ve botu başlat.
+* Kurulum bittikten sonra ```node Rahibe.js``` yaz ve botu başlat.
 
 
 ## Botun İntentlerini Açmayı Unutma!
